@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm B Sagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on [My Dev Blog](https://github.com/showbazi/dev-blog)
 
-- 🌱 I’m currently learning **Jest, Next.js, Redux-Saga, React-testing-library**
+- 🌱 I’m currently learning **AWS, PostgresSQL, Docker, Kubernetes**
 
 - 📝 I regularly write articles on [sagar-showbazi.vercel.app](sagar-showbazi.vercel.app)
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, Storybook, Accessibility, Jest, Node.js**
 
 - 📫 How to reach me **mail.bsagar@gmail.com**
 
