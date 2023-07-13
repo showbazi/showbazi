@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, PostgresSQL, Docker, Kubernetes**
 
-- 📝 I regularly write articles on [sagar-showbazi.vercel.app](sagar-showbazi.vercel.app)
+- 📝 I regularly write articles on [sagar-showbazi.vercel.app](https://sagar-showbazi.vercel.app)
 
 - 💬 Ask me about **React, Javascript, Storybook, Accessibility, Jest, Node.js**
 
